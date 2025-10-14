@@ -17,25 +17,25 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Lecturer - Researcher - Student
+role: Lecturer · Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Institut Teknologi Sumatera
-    url: https://www.itera.ac.id/
-  - name: King Mongkut's Institute Technology of Ladkrabang
+  - name: Program Studi Teknologi Pangan, Institut Teknologi Sumatera
+    url: https://tpg.itera.ac.id/
+  - name: King Mongkut's Institute of Technology Ladkrabang
     url: https://www.kmitl.ac.th/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include agricultural waste valorization, food packaging, food coloring, active packaging, and intelligent packaging.
+bio: My research focuses on starch extraction from agricultural waste and its application as biopolymers, alongside food packaging, food coloring, active packaging, and intelligent packaging solutions.
 
 # Interests to show in About widget
 interests:
-  - Agroindustry Waste
-  - Agroindusty waste utilization
+  - Agroindustrial Waste Management
+  - Agroindustry Waste Utilization
   - Food Packaging
   - Intelligent Packaging
-  - Food coloring
+  - Food Coloring
   - Sensory Evaluation
 
 # Education to show in About widget
@@ -46,7 +46,8 @@ education:
       year: 2022 
     - course: M.Sc in Food Science and Technology
       institution: Universitas Gadjah Mada (UGM), Yogyakarta
-      year: 2013     - course: BSc in Food and Agricultural Product Technology
+      year: 2013
+    - course: BSc in Food and Agricultural Product Technology
       institution: Universitas Gadjah Mada (UGM), Yogyakarta
       year: 2006 
 
@@ -77,19 +78,19 @@ skills:
         icon_pack: fas      
       - name: Sustainable Packaging Development
         description: 'Developing eco-friendly, biodegradable packaging solutions that minimize environmental impact.'
-        percent: 40
-        icon: database
+        percent: 60
+        icon: leaf
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Books Reading
-        description: 'Loves to read comics, webtoons, and manga'
+      - name: Reading
+        description: 'Loves to read comics, webtoons, and manga.'
         percent: 60
         icon: book
         icon_pack: fas
-      - name: Computer troubleshooting
+      - name: Computer Troubleshooting
         description: 'Enjoys fixing computers, MacOS and Windows devices, and consumer electronics.'
         percent: 70
         icon: computer
@@ -113,11 +114,11 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=II8InVAAAAAJ&hl=en
   - icon: github
-    icon_pack: x
-    link: https://twitter.com/lasuardi
+    icon_pack: fab
+    link: https://github.com/lasuardi
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/lasuardi-permana
+    link: https://www.linkedin.com/in/lasuardi-permana/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -129,5 +130,5 @@ social:
 highlight_name: true
 ---
 
-Lasuardi Permana is a PhD of Food Science and Technology at the School of Food Industry, KMITL, Thailand, under supervision of Dr. Pongsert Sripom. His research interests include food coloring, waste valorization, dragon fruit, xyloglucan, food packaging, and intelligent packaging.
+Lasuardi Permana is a lecturer and researcher at the Food Technology Study Program, Institut Teknologi Sumatera (ITERA), in South Lampung, Indonesia. His work centers on starch extraction from agricultural waste and its application as biopolymers, while continuing collaborative research on food coloring, waste valorization, dragon fruit by-products, xyloglucan, food packaging, and intelligent packaging systems.
 {style="text-align: justify;"}
