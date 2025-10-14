@@ -43,13 +43,13 @@ education:
   courses:
     - course: PhD in Food Science and Technology
       institution: King Mongkut Institute of Technology Ladkrabang, Thailand
-      year: 2022
+      year: 2022 
     - course: M.Sc in Food Science and Technology
       institution: Universitas Gadjah Mada (UGM), Yogyakarta
       year: 2013
     - course: BSc in Food and Agricultural Product Technology
       institution: Universitas Gadjah Mada (UGM), Yogyakarta
-      year: 2006
+      year: 2006 
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
