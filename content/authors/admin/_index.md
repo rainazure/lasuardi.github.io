@@ -43,13 +43,12 @@ education:
   courses:
     - course: PhD in Food Science and Technology
       institution: King Mongkut Institute of Technology Ladkrabang, Thailand
-      year: 2022
+      year: 2022 
     - course: M.Sc in Food Science and Technology
       institution: Universitas Gadjah Mada (UGM), Yogyakarta
-      year: 2013
-    - course: BSc in Food and Agricultural Product Technologi
+      year: 2013     - course: BSc in Food and Agricultural Product Technology
       institution: Universitas Gadjah Mada (UGM), Yogyakarta
-      year: 2006
+      year: 2006 
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -62,22 +61,22 @@ skills:
         icon: cannabis
         icon_pack: fab
       - name: Development of Intelligent Packaging Materials
-        description: 'Designing and developing intelligent packaging films using natural materials.'
+        description: 'Designing and developing intelligent packaging films using natural polymers and bioactive compounds.'
         percent: 80
         icon: chart-line
         icon_pack: fas
       - name: Utilization of Waste in Food Technology
-        description: 'Utilizing agricultural by-products for functional applications in food applications.'
+        description: 'Transforming agricultural by-products into functional ingredients for food applications.'
         percent: 40
         icon: database
         icon_pack: fas
       - name: Advanced Polymer Characterization Techniques
-        description: 'Expertise in using advanced techniques for evaluating mechanical, structural, and functional properties of biodegradable films.'
+        description: 'Using advanced analytical techniques to evaluate the mechanical, structural, and functional properties of biodegradable films.'
         percent: 40
         icon: database
         icon_pack: fas      
       - name: Sustainable Packaging Development
-        description: 'Technical ability in developing eco-friendly, biodegradable packaging solutions to reduce environmental impact.'
+        description: 'Developing eco-friendly, biodegradable packaging solutions that minimize environmental impact.'
         percent: 40
         icon: database
         icon_pack: fas
@@ -86,12 +85,12 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Books Reading
-        description: 'Love to read comics, webtoons, and manga'
+        description: 'Loves to read comics, webtoons, and manga'
         percent: 60
         icon: book
         icon_pack: fas
       - name: Computer troubleshooting
-        description: 'enjoying his time to fix anything related to computer, MacOS, Windows, and electronics'
+        description: 'Enjoys fixing computers, MacOS and Windows devices, and consumer electronics.'
         percent: 70
         icon: computer
         icon_pack: fas
@@ -130,5 +129,5 @@ social:
 highlight_name: true
 ---
 
-Lasuardi Permana is a PhD (cand) of Food Science and Technology at the School of Food Industry, KMITL, Thailand, under supervision of Dr. Pongsert Sripom. His research interests include food coloring, waste valorization, dragon fruit, xyloglucan, food packaging, and intelligent packaging.
+Lasuardi Permana is a PhD of Food Science and Technology at the School of Food Industry, KMITL, Thailand, under supervision of Dr. Pongsert Sripom. His research interests include food coloring, waste valorization, dragon fruit, xyloglucan, food packaging, and intelligent packaging.
 {style="text-align: justify;"}
